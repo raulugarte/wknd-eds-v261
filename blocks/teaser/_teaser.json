@@ -144,6 +144,10 @@
                 {
                   "name": "Dark Button",
                   "value": "button-dark"
+                },
+                 {
+                  "name": "Example  Button",
+                  "value": ""
                 }
               ]
             }
